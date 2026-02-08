@@ -19,7 +19,8 @@ A simple and clean React application that fetches random jokes from a public API
 https://official-joke-api.appspot.com/random_joke
 
 ## 📸 Screenshot
-_Add your app screenshot here_
+<img width="1920" height="1080" alt="Screenshot (311)" src="https://github.com/user-attachments/assets/1b37dbbc-7bcc-44fa-adfd-b4137b7dfbf6" />
+
 
 ## 📂 Project Setup
 ```bash
